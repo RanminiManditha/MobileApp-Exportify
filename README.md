@@ -35,9 +35,12 @@ Notification. The Service Gigs Management is the function where exporter will ad
 that he wants to provide. The Exporter/user can Insert, Update, View & Delete service gigs. Also, 
 Exporters can search existing service gigs and view a total count.
 
-(3) Weedagamaarachchi K.S - IT21576966 - Payment management
-The payment system is used to store and manage payments. The user will enter details about the payment to the application and generate documents. All 
-payments done by a certain user will be entered into a database and the user will view the payment history. The application stores payment details and 
-users can delete or update them when needed, calculate, and display when they are proceeding with the payment.
+
+(3) Nafeel S.M IT21173554 - Buyer, Create Request, Notification Management.
+When the buyer redirects to the dashboard, 
+If the buyer wants to make a request buyer can click the create request icon and redirect to the request page.
+first buyer can make their request and after inserting new request they can modify their own request like they
+want to update, delete unnecessary request like wise.as well as buyer can see their request counts in that page.
+after make request if don’t have any changes in the request he or she can click done button and move to main dashboard.
 
 
