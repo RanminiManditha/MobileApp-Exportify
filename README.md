@@ -19,3 +19,20 @@ Member 2     :- IT21308284 Vithanage H.D
 Member 3     :- IT21173554 Nafeel S.M
 Member 4     :- IT21576966 Weedagamaarachchi K.S
 
+(1) K.D.R Manditha -IT21289484 -login, user registration
+When a user opens the application, a login screen will show up, and after entering their username 
+and password, they will be redirected to their dashboard. If the user is new, user can click the 
+register icon and redirect to the registration. Register interface relies on the user type. Users can 
+always change their personal information on their user profile. After completing registration, 
+Users can log in and access the dashboard. When a user wants to look for a specific service or 
+request, they can use the search algorithm.
+
+
+(2) Vithanage H.D -IT21308284 - Exporter, Service Gigs Management
+The Main user of these functions are Exporter. After logging to the system as the Exporter will be 
+able to access anything from the dashboard such as user profile, Service Gigs Management, 
+Notification. The Service Gigs Management is the function where exporter will add the services 
+that he wants to provide. The Exporter/user can Insert, Update, View & Delete service gigs. Also, 
+Exporters can search existing service gigs and view a total count.
+
+
