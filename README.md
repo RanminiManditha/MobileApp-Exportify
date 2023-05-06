@@ -13,3 +13,9 @@ to make payments.
 We put a lot of effort into making this program as efficient and user-friendly as possible so that anyone 
 can use all the features without difficulty. For this development, the Kotlin programming language, 
 Android Studio, and Firebase as the database are all used.
+
+Group Leader :- IT21289484 K.D.R Manditha
+Member 2     :- IT21308284 Vithanage H.D
+Member 3     :- IT21173554 Nafeel S.M
+Member 4     :- IT21576966 Weedagamaarachchi K.S
+
