@@ -35,4 +35,9 @@ Notification. The Service Gigs Management is the function where exporter will ad
 that he wants to provide. The Exporter/user can Insert, Update, View & Delete service gigs. Also, 
 Exporters can search existing service gigs and view a total count.
 
+(3) Weedagamaarachchi K.S - IT21576966 - Payment management
+The payment system is used to store and manage payments. The user will enter details about the payment to the application and generate documents. All 
+payments done by a certain user will be entered into a database and the user will view the payment history. The application stores payment details and 
+users can delete or update them when needed, calculate, and display when they are proceeding with the payment.
+
 
