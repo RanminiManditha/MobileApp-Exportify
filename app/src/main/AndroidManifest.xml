@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Exportify"
+        tools:targetApi="31">
+        <activity
+            android:name=".UpdateServiceGig"
+            android:exported="false"
+            android:noHistory="true" />
+        <activity
+            android:name=".MyServiceGigs"
+            android:exported="false" />
+        <activity
+            android:name=".MyRequests"
+            android:exported="false" />
+        <activity
+            android:name=".BuyerProfile"
+            android:exported="false" />
+        <activity
+            android:name=".UpdateRequest"
+            android:exported="false"
+            android:noHistory="true" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".CreateRequest"
+            android:exported="false" />
+        <activity
+            android:name=".Services"
+            android:exported="false" />
+        <activity
+            android:name=".ServiceGigLog"
+            android:exported="false" />
+        <activity
+            android:name=".PaymentDetails"
+            android:exported="false" />
+        <activity
+            android:name=".OrderDetails"
+            android:exported="false" />
+        <activity
+            android:name=".ExporterProfileUpdate"
+            android:exported="false"
+            android:noHistory="true" />
+        <activity
+            android:name=".ExporterProfile"
+            android:exported="false" />
+        <activity
+            android:name=".CardDetails"
+            android:exported="false" />
+        <activity
+            android:name=".BuyerProfileUpdate"
+            android:exported="false"
+            android:noHistory="true" />
+        <activity
+            android:name=".AddNewService"
+            android:exported="false" />
+        <activity
+            android:name=".Exporter_profile_update_delete"
+            android:exported="false" />
+        <activity
+            android:name=".Buyer_profile_update_delete"
+            android:exported="false" />
+        <activity
+            android:name=".Chat"
+            android:exported="false" />
+        <activity
+            android:name=".Chatbox"
+            android:exported="false" />
+        <activity
+            android:name=".Exporter_registration"
+            android:exported="false"
+            android:noHistory="true" />
+        <activity
+            android:name=".Buyer_registration"
+            android:exported="false"
+            android:noHistory="true" />
+        <activity
+            android:name=".User_direction"
+            android:exported="false" />
+        <activity
+            android:name=".Exporter_dashboard"
+            android:exported="true" />
+        <activity
+            android:name=".Buyer_dashboard"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

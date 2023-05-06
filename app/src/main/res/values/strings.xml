@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">Exportify</string>
+    <string name="app_logo">Exportify</string>
+    <string name="login_username"><font size="20">Username</font></string>
+    <string name="login_password">Password</string>
+    <string name="btn_login"></string>
+    <string name="registerQuestion"></string>
+    <string name="btn_register"></string>
+    <string name="btn_exporter_dashboard_creategig">gig</string>
+    <string name="btn_dashboard_chatBox">gig</string>
+    <string name="btn_profile">profile</string>
+    <string name="btn_notifications">notify</string>
+    <string name="dashboard_search">search here</string>
+    <string name="userDirection_text">user</string>
+    <string name="userDirection_buyer">user</string>
+    <string name="userDirection_exporter">user</string>
+    <string name="registration_firstname">First Name</string>
+    <string name="registration_lastname">Last Name</string>
+    <string name="registration_password">Password</string>
+    <string name="registration_email">Email</string>
+    <string name="txtTopic">Topic</string>
+    <string name="txtDescription">Description</string>
+    <string name="txtPriceRange">PriceRange</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnDone">DONE</string>
+    <string name="btn_request">Create Request</string>
+
+    <string name="registration_cnum">Contact Number</string>
+    <string-array name="registration_countries">
+        <item>Country</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo, Republic of the</item>
+        <item>Congo, Democratic Republic of the</item>
+        <item>Cook Islands</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>East Timor (Timor-Leste)</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Eswatini (formerly Swaziland)</item>
+        <item>Ethiopia</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Greece</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>Italy</item>
+        <item>Ivory Coast (Côte d\'Ivoire)</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+    </string-array>
+    <string name="registration_state">State</string>
+    <string name="registration_zipcode">Zipcode</string>
+    <string name="registration_terms">Zipcode</string>
+    <string name="registration_btn_register">Zipcode</string>
+    <string name="registration_btn_cancel">Zipcode</string>
+    <string name="registration_buyer_description">Description about the service you need</string>
+    <string name="registration_exporter_description">Description about the service you provide</string>
+    <string name="chatbox_btn_newchat"></string>
+    <string name="chatbox_btn_back"></string>
+    <string name="chat_btn_back"></string>
+    <string name="chat_btn_send"></string>
+    <string name="chat_inputtext">send message</string>
+    <string name="btn_userprofile_update"></string>
+    <string name="btn_userprofile_delete"></string>
+    <string name="confirm_password">Confirm Password</string>
+
+</resources>
