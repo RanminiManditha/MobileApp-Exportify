@@ -6,7 +6,6 @@ import android.os.Bundle
 import android.widget.Toast
 import com.example.exportify.databinding.ActivityCardDetailsBinding
 import com.example.exportify.models.CardDetailsModel
-import com.example.exportify.models.ServiceGig
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
