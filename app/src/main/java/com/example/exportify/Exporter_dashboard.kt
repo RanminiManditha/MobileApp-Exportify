@@ -51,25 +51,12 @@ class Exporter_dashboard : AppCompatActivity() {
             override fun onItemClick(position: Int) {
 
             }
-
         })
 
         binding.ivProfile.setOnClickListener {
             intent = Intent(applicationContext, ExporterProfile::class.java)
             startActivity(intent)
         }
-
-
-
-
-
-
-
-
-
-
-
-
     }
 
     private fun addDataToList(){

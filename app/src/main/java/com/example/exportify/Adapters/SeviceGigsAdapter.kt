@@ -35,14 +35,19 @@ class SeviceGigsAdapter(var mList: List<ServiceGig>) :
         }
     }
 
+    //Search function fliteration
+    fun setFilteredList(mList: List<ServiceGig>){
+        this.mList = mList
+        notifyDataSetChanged()
+    }
+
+    //To retrive the data in to design box
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): viewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.each_item_service_gigs, parent, false)
-
-
-
         return viewHolder(view, mListner)
     }
 
+    //total gigs Count
     override fun getItemCount(): Int {
         return mList.size
     }

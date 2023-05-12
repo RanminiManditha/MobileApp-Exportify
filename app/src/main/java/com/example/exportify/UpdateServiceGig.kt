@@ -51,7 +51,7 @@ class UpdateServiceGig : AppCompatActivity() {
             var etPrice = binding.edPrice.text.toString()
             var etNoOfCount = binding.edUnits.text.toString()
 
-            //add data to hashMap
+            //add data to hashMap(Array)
             map["topic"] = etTopic
             map["type"] = etType
             map["description"] = etDes
@@ -79,13 +79,5 @@ class UpdateServiceGig : AppCompatActivity() {
                 }
             }
         }
-
-
-
-
-
-
-
-
     }
 }
